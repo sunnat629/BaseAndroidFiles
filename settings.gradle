@@ -1,2 +1,2 @@
-rootProject.name='MVI Test'
+rootProject.name='Base Android Files'
 include ':app'

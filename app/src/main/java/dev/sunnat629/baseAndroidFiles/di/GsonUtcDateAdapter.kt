@@ -8,7 +8,6 @@ import org.joda.time.DateTime
 import org.joda.time.format.DateTimeFormat
 import java.lang.reflect.Type
 import java.text.ParseException
-import java.text.SimpleDateFormat
 
 
 class GsonUtcDateAdapter(

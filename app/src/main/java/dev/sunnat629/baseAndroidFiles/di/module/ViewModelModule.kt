@@ -2,7 +2,7 @@ package dev.sunnat629.baseAndroidFiles.di.module
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.deligram.agent.injection.ViewModelKey
+import dev.sunnat629.baseAndroidFiles.di.ViewModelKey
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

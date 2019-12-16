@@ -1,4 +1,4 @@
-package com.deligram.agent.injection
+package dev.sunnat629.baseAndroidFiles.di
 
 
 import androidx.lifecycle.ViewModel
